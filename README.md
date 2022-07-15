@@ -25,10 +25,10 @@
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 <tr>
-<td colspan="4">Sistema desenvolvido na plataforma WORDPRESS + ELEMENTOR PRO para vendas de hospedagem de sites, certificados SSL, dominios, servidores VPS, servidores dedicados, tendo seu principal objetivo vendas de hospedagem de sites e dominios.</td>
+<td colspan="4">Sistema desenvolvido na plataforma WORDPRESS + ELEMENTOR PRO + WHMCS para vendas de hospedagem de sites, certificados SSL, dominios, servidores VPS, servidores dedicados, tendo seu principal objetivo vendas de hospedagem de sites e dominios.</td>
 </tr>
 <tr>
-<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178822334-a09359ce-1599-420d-bae5-5b9b0c5e9b8c.png" alt="" /></td>
+<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/179287282-8bfb4d59-a68f-4e98-ae72-9f9aa05762a5.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
