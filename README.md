@@ -1,35 +1,27 @@
-<table style="width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 25%;"><strong>Project Name</strong></td>
-<td style="width: 25%;"><strong>Author</strong></td>
-<td style="width: 25%;"><strong>Version PHP</strong></td>
-<td style="width: 25%;"><strong>Blogs</strong></td>
-</tr>
-<tr>
-<td style="width: 25%;">Jimsoftware</td>
-<td style="width: 25%;">jgquiterio</td>
-<td style="width: 25%;">>=5.6</td>
-<td style="width: 25%;">Wordpress</td>
-</tr>
-<tr>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 25%;"><strong>Description</strong></td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="4">Sistema desenvolvido na plataforma WORDPRESS + ELEMENTOR PRO + WHMCS para vendas de hospedagem de sites, certificados SSL, dominios, servidores VPS, servidores dedicados, tendo seu principal objetivo vendas de hospedagem de sites e dominios.</td>
-</tr>
-<tr>
-<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/179287282-8bfb4d59-a68f-4e98-ae72-9f9aa05762a5.png" alt="" /></td>
-</tr>
-</tbody>
-</table>
+# Jimsoftware — Software Development Services Website
 
+<img src="https://user-images.githubusercontent.com/109168134/179287282-8bfb4d59-a68f-4e98-ae72-9f9aa05762a5.png" alt="" />
+
+## Project Overview
+
+Jimsoftware is a business website developed using WordPress and Elementor to present software development services and establish a professional online presence. The project focuses on communicating service offerings, organizing business information, and providing visitors with a clear and accessible digital experience.
+
+## Technical Implementation
+
+The project leveraged WordPress as the content management system and Elementor for visual page building, layout composition, and interface customization. This approach enabled flexible content presentation and streamlined website maintenance while supporting the company's digital service positioning.
+
+## Key Areas
+
+- **Website Development:** Implementation of a business website using WordPress.
+- **Visual Page Building:** Creation and customization of page layouts using Elementor.
+- **Service Presentation:** Organization of software-related services and business information.
+- **Content Management:** WordPress-based content administration and maintenance.
+- **User Experience:** Structured page layouts designed to improve navigation and information accessibility.
+
+## Technologies
+
+WordPress · Elementor · CMS · Website Development · Responsive Web Design
+
+## Engineering Focus
+
+CMS-based web development, visual interface composition, service presentation, content management, and maintainable business websites.
